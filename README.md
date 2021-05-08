@@ -1,5 +1,6 @@
 # How_to_test_method_in_class_by_python
 
+```
 
 
 @add_start_docstrings(
@@ -30,3 +31,4 @@ class XLNetModel(XLNetPreTrainedModel):
         if 1:
            self.create_mask(2,4)
 
+```
