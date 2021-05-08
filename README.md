@@ -1,0 +1,1 @@
+# How_to_test_method_in_class_by_python
